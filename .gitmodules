@@ -1,0 +1,3 @@
+[submodule "plugins/dubk0ff/logistics"]
+	path = plugins/dubk0ff/logistics
+	url = https://github.com/dubk0ff/oc-logistics-plugin.git
