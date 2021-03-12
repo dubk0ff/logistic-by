@@ -11,6 +11,7 @@ selenium.php
 /bootstrap/compiled.php
 /modules
 /plugins/flynsarmy/
+/public
 .phpunit.result.cache
 
 # Hosting ignores
